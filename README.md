@@ -6,7 +6,7 @@
 
 ##F0_0H
 
-我是赴花，博客：[mimifh.com](mimifh.com)
+我是赴花，博客：[mimifh.com](www.mimifh.com)
 
 
 
