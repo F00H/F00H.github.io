@@ -4,7 +4,7 @@ title: 七夕特别篇
 date: 2017-09-09
 categories: blog
 tags: [风花雪月]
-description: 今天下午临时定下要出差。已抵浙江，刚刚安顿。明天一早出发，不便多写。但会在工作之余尽量写。写不是义务，写本身就是写的报酬。
+description: 风花雪月_特别篇
 
 ---
 
